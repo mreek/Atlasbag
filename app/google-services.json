@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798782474",
+    "firebase_url": "https://atlasbag-68027.firebaseio.com",
+    "project_id": "atlasbag-68027",
+    "storage_bucket": "atlasbag-68027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798782474:android:4e8b87283493eff5",
+        "android_client_info": {
+          "package_name": "com.khalil.atlasbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798782474-7gp68hihg44rjp6aib2um3svk6or7uqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVghUxsP5HI9xrfeQDCYNuiiNfB_HYWvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
